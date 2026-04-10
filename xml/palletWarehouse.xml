@@ -157,7 +157,21 @@
         <fillType name="SOUPCANSPARSNIP" priceScale="0.5"/>
         <fillType name="SOUPCANSBEETROOT" priceScale="0.5"/>
         <fillType name="SOUPCANSPOTATO" priceScale="0.5"/>
-
+    <!-->Following are fill types I could find in a highlands fishing save</!-->
+        <fillType name="SHINGLEROOF" priceScale="0.5"/>
+        <fillType name="FISHFOOD" priceScale="0.5"/>
+        <fillType name="SALMONYOUNG" priceScale="0.5"/>
+        <fillType name="STONEBIG" priceScale="0.5"/>
+        <fillType name="CASTLEROCK " priceScale="0.5"/> 
+        <fillType name="SALMON" priceScale="0.5"/>
+        <fillType name="SALMONYOUNG" priceScale="0.5"/>
+        <fillType name="TROUTYOUNG" priceScale="0.5"/>
+        <fillType name="TROUT" priceScale="0.5"/>
+        <fillType name="FRIEDONION " priceScale="0.5"/>         
+        <fillType name="ONIONBAG" priceScale="0.5"/>
+        <fillType name="ONIONSALT" priceScale="0.5"/>
+        <fillType name="ONIONSOUP" priceScale="0.5"/>
+        
         <palletSpawner>
             <spawnPlaces>
                 <spawnPlace startNode="palletAreaStart01" endNode="palletAreaEnd01" />
