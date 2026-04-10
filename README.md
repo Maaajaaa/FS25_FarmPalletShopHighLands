@@ -2,7 +2,7 @@
 
 [Download](https://github.com/Jos-Modding/FS25_FarmPalletShop/releases)
 
-Place this minimal pallet shop in your farmyard to buy pallets directly at your farm.
+Place this minimal pallet shop in your farmyard to buy pallets directly at your farm, now also supporting pallets from the Highlands Fishing DLC
 The shop can be configured in 3 sizes: small, standard, and large.
 
 Pallet price is calculated (by the game) using your economy settings and the current price for the crop.
@@ -24,13 +24,14 @@ Configurations: Size
 ## Requirements
 
 - **Farming Simulator Version:** FS25
+- **Required DLCS:** Highlands Fishing
 - **Required Mods/Software (if applicable):** None
 - **Platform:** PC / PS5 / XBOX
 
 ## Installation
 
 1. **Download the Mod:**
-    - Download the latest release from the [Releases page](https://github.com/Jos-Modding/FS25_FarmPalletShop/releases).
+    - Download ~~the latest release from the [Releases page](https://github.com/Jos-Modding/FS25_FarmPalletShop/releases).~~
 
 2. **Install the Mod:**
     - Copy _FS25_FarmPalletShop.zip_ to your `mods` directory of your Farming Simulator.
@@ -54,7 +55,7 @@ We welcome contributions! If you'd like to contribute, please:
 
 ## Credits
 
-- **Author(s):** Jos
+- **Author(s):** Jos, Maaajaaa
 - **Special Thanks:** Giants Software
 
 ## License
