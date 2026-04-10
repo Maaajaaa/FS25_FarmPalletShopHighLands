@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <modDesc descVersion="98">
     <author>Maaajaaa</author>
-    <version>0.0.1</version>
+    <version>1.0.0</version>
     <title>
-        <en>Farm Pallet Shop (inklusive Highlands Fishing compatible)</en>
-        <de>Hof Paletten Händler (inklusive Highlands Fishing)</de>
+        <en>Farm Pallet Shop</en>
+        <de>Hof Paletten Händler</de>
     </title>
     <description>
         <en><![CDATA[Place this minimal pallet shop in your farmyard to buy pallets directly at your farm.
